@@ -1,0 +1,28 @@
+{
+  "name": "aoc-2023",
+  "description": "Advent of Code 2023",
+  "keywords": [
+    "adventofcode",
+    "aoc"
+  ],
+  "license": "ISC",
+  "author": "George Achkasov",
+  "scripts": {
+    "lint": "bun lint",
+    "format": "deno fmt --ignore=node_modules",
+    "format:check": "deno fmt --ignore=node_modules --check",
+    "test": "bun test '*{a|b}.ts'",
+    "test:watch": "bun test --watch"
+  },
+  "engines": {
+    "bun": "~1.0.14"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "1.4.1",
+    "bun-types": "^1.0.14"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
