@@ -3,15 +3,18 @@
   "description": "Advent of Code 2023",
   "keywords": [
     "adventofcode",
-    "aoc"
+    "aoc",
+    "bun",
+    "biome",
+    "biomejs"
   ],
   "license": "ISC",
   "author": "George Achkasov",
   "scripts": {
-    "lint": "bun lint",
-    "format": "deno fmt --ignore=node_modules",
-    "format:check": "deno fmt --ignore=node_modules --check",
-    "test": "bun test '*{a|b}.ts'",
+    "lint": "biome lint ./",
+    "format": "biome format --write ./",
+    "format:check": "biome format ./",
+    "test": "bun test",
     "test:watch": "bun test --watch"
   },
   "engines": {
