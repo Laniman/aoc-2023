@@ -1,6 +1,10 @@
 import { expect, test } from "bun:test";
 
-const digit = {
+interface DigitMap {
+    [key: string]: number;
+}
+
+const digit: DigitMap = {
     one: 1,
     two: 2,
     three: 3,
