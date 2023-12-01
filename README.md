@@ -11,7 +11,7 @@ Run the code via
 ```bash
 bun test 01/a.test.ts
 # or
-npm run test
+bun run test
 # or
-npm run test:watch
+bun run test:watch
 ```
