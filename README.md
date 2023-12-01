@@ -1,3 +1,5 @@
+[![Check](https://github.com/Laniman/aoc-2023/actions/workflows/check.yml/badge.svg?branch=main)](https://github.com/Laniman/aoc-2023/actions/workflows/check.yml)
+
 # [Advent of Code 2023](https://adventofcode.com/2023)
 
 - [01 - Day 1: Trebuchet?!](https://adventofcode.com/2023/day/1) -
