@@ -16,8 +16,8 @@
     "format:check": "biome format ./",
     "test": "bun test",
     "test:watch": "bun test --watch",
-    "ci": "biome ci .",
-    "type-check": "tsc --noEmit"
+    "type-check": "tsc --noEmit",
+    "ci": "biome ci . && bun run type-check && bun run test"
   },
   "engines": {
     "bun": "~1.0.14"
