@@ -1,6 +1,6 @@
 [![Check](https://github.com/Laniman/aoc-2023/actions/workflows/check.yml/badge.svg?branch=main)](https://github.com/Laniman/aoc-2023/actions/workflows/check.yml)
 
-# [Advent of Code 2023](https://adventofcode.com/2023)
+# [Advent of Code 2023[^aoc]](https://adventofcode.com/2023)
 
 - [01 - Day 1: Trebuchet?!](https://adventofcode.com/2023/day/1) -
   [solution A](./01/a.test.ts) | [solution B](./01/b.test.ts)
@@ -23,3 +23,7 @@ bun run test
 # or
 bun run test:watch
 ```
+[^aoc]:
+    [Advent of Code][aoc] – An annual event of Christmas-oriented programming challenges started December 2015.
+    Every year since then, beginning on the first day of December, a programming puzzle is published every day for twenty-five days.
+    You can solve the puzzle and provide an answer using the language of your choice.
