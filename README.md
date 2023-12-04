@@ -8,7 +8,9 @@
   [solution A](./02/a.test.ts) | [solution B](./02/b.test.ts)
 - [03 - Day 3: Gear Ratios](https://adventofcode.com/2023/day/3) -
   [solution A](./03/a.test.ts) | [solution B](./03/b.test.ts)
- 
+- [04 - Day 4: Scratchcards](https://adventofcode.com/2023/day/4) -
+  [solution A](./04/a.test.ts) | [solution B](./04/b.test.ts)
+
 ## Running the solutions
 
 For running the code you need the [Bun runtime](https://bun.sh/) installed.
