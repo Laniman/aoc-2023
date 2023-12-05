@@ -10,6 +10,8 @@
   [solution A](./03/a.test.ts) | [solution B](./03/b.test.ts)
 - [04 - Day 4: Scratchcards](https://adventofcode.com/2023/day/4) -
   [solution A](./04/a.test.ts) | [solution B](./04/b.test.ts)
+- [05 - Day 5: If You Give A Seed A Fertilizer](https://adventofcode.com/2023/day/5) -
+  [solution A](./05/a.test.ts) | [solution B](./05/b.test.ts)
 
 ## Running the solutions
 
