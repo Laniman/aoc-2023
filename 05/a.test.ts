@@ -7,6 +7,7 @@ function solution(input: string) {
         .trim()
         .split(" ")
         .map((n) => Number(n));
+
     const maps = mapStrings.map((map) =>
         map
             .split("\n")
