@@ -12,6 +12,8 @@
   [solution A](./04/a.test.ts) | [solution B](./04/b.test.ts)
 - [05 - Day 5: If You Give A Seed A Fertilizer](https://adventofcode.com/2023/day/5) -
   [solution A](./05/a.test.ts) | [solution B](./05/b.test.ts)
+- [06 - Day 6: Wait For It](https://adventofcode.com/2023/day/6) -
+  [solution A](./06/a.test.ts) | [solution B](./06/b.test.ts)
 
 ## Running the solutions
 
