@@ -14,6 +14,8 @@
   [solution A](./05/a.test.ts) | [solution B](./05/b.test.ts)
 - [06 - Day 6: Wait For It](https://adventofcode.com/2023/day/6) -
   [solution A](./06/a.test.ts) | [solution B](./06/b.test.ts)
+- [07 - Day 7: Camel Cards](https://adventofcode.com/2023/day/7) -
+  [solution A](./07/a.test.ts) | [solution B](./07/b.test.ts)
 
 ## Running the solutions
 
