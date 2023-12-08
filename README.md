@@ -16,6 +16,8 @@
   [solution A](./06/a.test.ts) | [solution B](./06/b.test.ts)
 - [07 - Day 7: Camel Cards](https://adventofcode.com/2023/day/7) -
   [solution A](./07/a.test.ts) | [solution B](./07/b.test.ts)
+- [08 - Day 8: Haunted Wasteland](https://adventofcode.com/2023/day/8) -
+  [solution A](./08/a.test.ts) | [solution B](./08/b.test.ts)
 
 ## Running the solutions
 
