@@ -22,6 +22,8 @@
   [solution A](./09/a.test.ts) | [solution B](./09/b.test.ts)
 - [10 - Day 10: Pipe Maze](https://adventofcode.com/2023/day/10) -
   [solution A](./10/a.test.ts) | [solution B](./10/b.test.ts)
+- [11 - Day 11: Cosmic Expansion](https://adventofcode.com/2023/day/11) -
+  [solution A](./11/a.test.ts) | [solution B](./11/b.test.ts)
 
 ## Running the solutions
 
