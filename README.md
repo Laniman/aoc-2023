@@ -26,6 +26,8 @@
   [solution A](./11/a.test.ts) | [solution B](./11/b.test.ts)
 - [12 - Day 12: Hot Springs](https://adventofcode.com/2023/day/12) -
   [solution A](./12/a.test.ts) | [solution B](./12/b.test.ts)
+- [13 - Day 13: Point of Incidence](https://adventofcode.com/2023/day/13) -
+  [solution A](./13/a.test.ts) | [solution B](./13/b.test.ts)
 
 ## Running the solutions
 
