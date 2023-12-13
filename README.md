@@ -24,6 +24,8 @@
   [solution A](./10/a.test.ts) | [solution B](./10/b.test.ts)
 - [11 - Day 11: Cosmic Expansion](https://adventofcode.com/2023/day/11) -
   [solution A](./11/a.test.ts) | [solution B](./11/b.test.ts)
+- [12 - Day 12: Hot Springs](https://adventofcode.com/2023/day/12) -
+  [solution A](./12/a.test.ts) | [solution B](./12/b.test.ts)
 
 ## Running the solutions
 
