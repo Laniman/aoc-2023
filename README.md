@@ -28,6 +28,8 @@
   [solution A](./12/a.test.ts) | [solution B](./12/b.test.ts)
 - [13 - Day 13: Point of Incidence](https://adventofcode.com/2023/day/13) -
   [solution A](./13/a.test.ts) | [solution B](./13/b.test.ts)
+- [14 - Day 14: Parabolic Reflector Dish](https://adventofcode.com/2023/day/14) -
+  [solution A](./14/a.test.ts) | [solution B](./14/b.test.ts)
 
 ## Running the solutions
 
