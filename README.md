@@ -32,6 +32,8 @@
   [solution A](./14/a.test.ts) | [solution B](./14/b.test.ts)
 - [15 - Day 15: Lens Library](https://adventofcode.com/2023/day/15) -
   [solution A](./15/a.test.ts) | [solution B](./15/b.test.ts)
+- [16 - Day 16: The Floor Will Be Lava](https://adventofcode.com/2023/day/16) -
+  [solution A](./16/a.test.ts) | [solution B](./16/b.test.ts)
 
 ## Running the solutions
 
