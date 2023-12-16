@@ -30,6 +30,8 @@
   [solution A](./13/a.test.ts) | [solution B](./13/b.test.ts)
 - [14 - Day 14: Parabolic Reflector Dish](https://adventofcode.com/2023/day/14) -
   [solution A](./14/a.test.ts) | [solution B](./14/b.test.ts)
+- [15 - Day 15: Lens Library](https://adventofcode.com/2023/day/15) -
+  [solution A](./15/a.test.ts) | [solution B](./15/b.test.ts)
 
 ## Running the solutions
 
