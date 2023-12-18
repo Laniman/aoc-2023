@@ -36,6 +36,8 @@
   [solution A](./16/a.test.ts) | [solution B](./16/b.test.ts)
 - [17 - Day 17: Clumsy Crucible](https://adventofcode.com/2023/day/17) -
   [solution A](./17/a.test.ts) | [solution B](./17/b.test.ts)
+- [18 - Day 18: Lavaduct Lagoon](https://adventofcode.com/2023/day/18) -
+  [solution A](./18/a.test.ts) | [solution B](./18/b.test.ts)
 
 ## Running the solutions
 
