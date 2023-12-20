@@ -40,6 +40,8 @@
   [solution A](./18/a.test.ts) | [solution B](./18/b.test.ts)
 - [19 - Day 19: Aplenty](https://adventofcode.com/2023/day/19) -
   [solution A](./19/a.test.ts) | [solution B](./19/b.test.ts)
+- [20 - Day 20: Pulse Propagation](https://adventofcode.com/2023/day/20) -
+  [solution A](./20/a.test.ts) | [solution B](./20/b.test.ts)
 
 ## Running the solutions
 
