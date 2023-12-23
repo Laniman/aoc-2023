@@ -44,6 +44,8 @@
   [solution A](./20/a.test.ts) | [solution B](./20/b.test.ts)
 - [21 - Day 21: Step Counter](https://adventofcode.com/2023/day/21) -
   [solution A](./21/a.test.ts) | [solution B](./21/b.test.ts)
+- [23 - Day 23: A Long Walk](https://adventofcode.com/2023/day/23) -
+  [solution A](./23/a.test.ts) | [solution B](./23/b.test.ts)
 
 ## Running the solutions
 
