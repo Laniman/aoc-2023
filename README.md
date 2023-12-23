@@ -42,6 +42,8 @@
   [solution A](./19/a.test.ts) | [solution B](./19/b.test.ts)
 - [20 - Day 20: Pulse Propagation](https://adventofcode.com/2023/day/20) -
   [solution A](./20/a.test.ts) | [solution B](./20/b.test.ts)
+- [21 - Day 21: Step Counter](https://adventofcode.com/2023/day/21) -
+  [solution A](./21/a.test.ts) | [solution B](./21/b.test.ts)
 
 ## Running the solutions
 
