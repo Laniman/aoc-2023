@@ -48,6 +48,8 @@
   [solution A](./23/a.test.ts) | [solution B](./23/b.test.ts)
 - [24 - Day 24: Never Tell Me The Odds](https://adventofcode.com/2023/day/24) -
   [solution A](./24/a.test.ts) | [solution B](./24/b.js)
+- [25 - Day 25: Snowverload](https://adventofcode.com/2023/day/25) -
+  [solution](./25/a.test.ts)
 
 ## Running the solutions
 
