@@ -2,6 +2,8 @@
 
 # [Advent of Code 2023](https://adventofcode.com/2023)[^aoc]
 
+[<img width="500" alt="Advent Calendar" src="https://user-images.githubusercontent.com/17131057/293094725-7a5b9777-2f35-4196-be80-8d83b6231f3c.png">]([https://laniman.github.io/three-js-heart/](https://adventofcode.com/2023))
+
 - [01 - Day 1: Trebuchet?!](https://adventofcode.com/2023/day/1) -
   [solution A](./01/a.test.ts) | [solution B](./01/b.test.ts)
 - [02 - Day 2: Cube Conundrum](https://adventofcode.com/2023/day/2) -
